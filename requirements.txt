@@ -2,3 +2,4 @@ streamlit
 dotenv
 google-generativeai
 google.adk
+youtube_transcript_api
